@@ -2,7 +2,6 @@
  * AUTHOR: Tanner Jackson
  * FILE: PA11Main.java
  * Assignment: PA11 - The Traveling Salesman Problem
- * COURSE: CSc 210; Fall 2021
  * Purpose: This is the main file that takes in a file and 
  * a command. It creates a graph based on the contents of the file
  * and computes either a heuristic, backtrack, backtrack improved,
